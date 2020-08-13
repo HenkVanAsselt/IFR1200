@@ -1,6 +1,2 @@
 pyserial
-PyQt5==5.13.0
-PyQt5-tools
-pytest
-# rst2html5
-# fbs
+pyside2
